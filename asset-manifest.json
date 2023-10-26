@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/latest_job/static/css/main.5a0d5e47.css",
-    "main.js": "/latest_job/static/js/main.7758b0c9.js",
+    "main.js": "/latest_job/static/js/main.84957c6a.js",
     "static/media/MusicPlayer.zip": "/latest_job/static/media/MusicPlayer.a04c7facda4c6a2d391c.zip",
     "static/media/NumberGuessingGame.zip": "/latest_job/static/media/NumberGuessingGame.55d79fb4d007dadd098e.zip",
     "static/media/Otp.zip": "/latest_job/static/media/Otp.2931de4751789fd84e8d.zip",
     "index.html": "/latest_job/index.html",
     "main.5a0d5e47.css.map": "/latest_job/static/css/main.5a0d5e47.css.map",
-    "main.7758b0c9.js.map": "/latest_job/static/js/main.7758b0c9.js.map"
+    "main.84957c6a.js.map": "/latest_job/static/js/main.84957c6a.js.map"
   },
   "entrypoints": [
     "static/css/main.5a0d5e47.css",
-    "static/js/main.7758b0c9.js"
+    "static/js/main.84957c6a.js"
   ]
 }
